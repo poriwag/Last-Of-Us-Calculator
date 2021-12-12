@@ -5,23 +5,20 @@ Provides all the details about the guns and perk information, while also being a
 
 ## Loadout Calculator
 Allows you to check check the avaliable expansions and the list of cards in the expansion
+<img width="347" alt="Screen Shot 2021-12-11 at 9 30 53 PM" src="https://user-images.githubusercontent.com/14205107/145702543-cd383c35-0fcd-4bd8-b988-795dd003dcf6.png">
 
 
-<img width="368" alt="Screen Shot 2021-10-19 at 2 30 49 PM" src="https://user-images.githubusercontent.com/14205107/137994804-3afcb2d3-7769-4947-a461-ac003b754dc9.png">
 
-## List of cards
-A card list that you can lookup and search. Selecting a card will allow you to look more into detail about the card
-
-
-<img width="358" alt="Screen Shot 2021-10-19 at 2 31 36 PM" src="https://user-images.githubusercontent.com/14205107/137994922-459be611-ebda-4457-a8c4-17ed638305dd.png">
-
-## Card Info 
-Card information displayed on sreen. You may select the card for a zoomed image of the card, look at its associated expansion list, add to favoties,  and a wiki page with a more in-depth detail about the card.
-
-<img width="358" alt="Screen Shot 2021-10-19 at 2 32 03 PM" src="https://user-images.githubusercontent.com/14205107/137994955-1c58fca9-4b3b-4c3b-ad05-ca3bfe8bbaac.png">
-
-## Favorites
-A list of favorites you may add through the card 
+## A list of guns/perks
+A list that you can lookup and search. Selecting a gun or perk will allow you to look more into detail.
 
 
-<img width="357" alt="Screen Shot 2021-10-19 at 2 32 40 PM" src="https://user-images.githubusercontent.com/14205107/137994987-208a83a9-7a0e-487f-9026-a714cd6d88c0.png">
+<img width="357" alt="Screen Shot 2021-12-11 at 9 30 07 PM" src="https://user-images.githubusercontent.com/14205107/145702570-e2727588-92a4-41cd-9c48-6580026d532d.png">
+
+## Gun/Perk Info
+Gun information displayed on screen, an in depth look at specific details about the gun
+
+
+<img width="353" alt="Screen Shot 2021-12-11 at 9 30 29 PM" src="https://user-images.githubusercontent.com/14205107/145702588-1828892c-aa44-4599-823a-5a0ce76a237f.png">
+
+
