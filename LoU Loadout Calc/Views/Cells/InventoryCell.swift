@@ -24,7 +24,7 @@ class InventoryCell: UICollectionViewCell {
         backgroundColor = LoUColors.backgroundCellColor
         layer.cornerRadius = 8
         
-        itemImageView.anchor(top: contentView.topAnchor, leading: contentView.leadingAnchor, bottom: .none, trailing: contentView.trailingAnchor, padding: .init(top: padding, left: padding, bottom: 0, right: padding))
+        itemImageView.anchor(top: self.topAnchor, leading: self.leadingAnchor, bottom: .none, trailing: self.trailingAnchor, padding: .init(top: padding, left: padding, bottom: 0, right: padding))
         itemImageView.heightAnchor.constraint(equalTo: itemImageView.widthAnchor).isActive = true
         
         titleLabel.anchor(top: itemImageView.bottomAnchor, leading: contentView.leadingAnchor, bottom: contentView.bottomAnchor, trailing: contentView.trailingAnchor, padding: .init(top: 12, left: 12, bottom: 0, right: 12))
