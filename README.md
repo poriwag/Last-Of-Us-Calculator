@@ -4,7 +4,7 @@ Provides all the details about the guns and perk information, while also being a
 
 
 ## Loadout Calculator
-Allows you to check check the avaliable expansions and the list of cards in the expansion
+Allows the user the calculate the total amount of currency to use as their loadout for the start of the game.
 <img width="347" alt="Screen Shot 2021-12-11 at 9 30 53 PM" src="https://user-images.githubusercontent.com/14205107/145702543-cd383c35-0fcd-4bd8-b988-795dd003dcf6.png">
 
 
